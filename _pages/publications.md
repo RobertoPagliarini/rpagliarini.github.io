@@ -4,105 +4,66 @@ title: "Publications"
 permalink: /publications/
 ---
 
-## 2023
+Peer-reviewed Journal Papers
 
-* **DeepAtash: Focused Test Generation for Deep Learning Systems**  
-  Tahereh Zohdinasab, Vincenzo Riccio, and Paolo Tonella  
-  *In Proceedings of the ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2023)*  
-   [\[PDF\]](../assets/pdf/deepatash_issta23.pdf)
-  
-* **SBFT Tool Competition 2023 - Cyber-Physical Systems Track**  
-  Matteo Biagiola, Stefan Klikovits, Jarkko Peltomaki, and Vincenzo Riccio   
-  *In Proceedings of the IEEE/ACM 45th International Conference on Software Engineering Workshops (SBST@ICSE 2023)*  
-  [\[PDF\]](../assets/pdf/SBFT_2023.pdf)
+[1] M. Steidl, E. Nigro, A. Kallehauge Nielsen, R. Pagliarini, L. Cassina, M. Lampis, C. Podrini,
+M. Chiaravalli, V. Mannella, G. Distefano, M. Yang, M. Asnalayan, G. Musco, R. Roepman,
+C.Frezza, A. Boletta. Primary Cilia Sense Nutrient Availability and Respond to Glutamine via
+Asparagine Synthetase. Nature Metabolism, 5(3), pp. 385–397, 2023.
 
-* **When and Why Test Generators for Deep Learning Produce Invalid Inputs: an Empirical Study**  
-  Vincenzo Riccio, Paolo Tonella  
-  *In Proceedings of the 45th ACM/IEEE International Conference on Software Engineering (ICSE)*  
-  [\[PDF\]](../assets/pdf/ICSE2023.pdf) [\[slides\]](../assets/slides/riccio_icse_2023.pdf)
+[2] R. Pagliarini, C. Podrini. Metabolic Reprogramming and Reconstruction: Integration of
+Experimental and Computational Studies to Set the Path Forward in ADPKD. Frontiers in
+Medicine, 8:740087, 2021.
 
-## 2022
+[3] Podrini C.*, Rowe I.*, Pagliarini R.*, Costa A. S. H., Chiaravalli M., Di Meo I., Kim H.,
+Distefano G., Tiranti V., Qian F., di Bernardo D., Frezza C., Boletta A. Dissection of Metabolic
+Reprogramming in Polycystic Kidney Disease Reveals a Complex and Coordinated Rewiring of
+Bioenergetic Pathways. Communications Biology, 1:194, 2018.
 
-* **Does Road Diversity Really Matter in Testing Automated Driving Systems? -- A Registered Report**  
-  Stefan Klikovits, Vincenzo Riccio, Ezequiel Castellano, Ahmet Cetinkaya, Alessio Gambi, Paolo Arcaini  
-  *In Proceedings of the 16th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM)*  
-  [\[PDF\]](../assets/pdf/esem2022.pdf) [\[slides\]](../assets/slides/ESEM_2022_slides_short.pdf)  
+[4] L. Drusian., E.A. Nigro, V. Mannella., R. Pagliarini, M. Pema, A.S.H. Costa, F. Benigni.,A.
+Larcher, M. Chiaravalli, E. Gaude , F. Montorsi, U. Capitanio, G. Musco, C. Frezza, A. Boletta.
+mTORC1 Upregulation Leads to Accumulation of the Oncometabolite Fumarate in a Mouse
+Model of Renal Cell Carcinoma Cell Reports, 24 (5), pp. 1093-1104, 2018.
 
-* **Efficient and Effective Feature Space Exploration for Testing Deep Learning Systems**  
-  Tahereh Zohdinasab, Vincenzo Riccio, Alessio Gambi, and Paolo Tonella  
-  *ACM Transactions on Software Engineering and Methodology (TOSEM)*  
-  [\[PDF\]](../assets/pdf/TOSEM2022.pdf)  
+[5] R. Pagliarini, R. Castello, F. Napolitano, R. Borzone, P. Annunziata, G. Mandrile, M. De
+Marchi, N. Brunetti -Pierri, D. di Bernardo. In silico modelling of liver metabolism in a human
+disease reveals a key enzyme for histidiene and histamine homeostasis . Cell Reports, 15,
+2292-2300, 2016.
 
-* **SBST Tool Competition 2022**  
-  Alessio Gambi, Gunel Jahangirova, Vincenzo Riccio, and Fiorella Zampetti   
-  *In Proceedings of the IEEE/ACM 44th International Conference on Software Engineering Workshops (SBST@ICSE 2022)*  
-  [\[PDF\]](../assets/pdf/SBST2022.pdf)
+[6] R. Pagliarini, R. Castello, R. Borzone, P. Annunziata, G. Mandrile, M. De Marchi, N. Brunetti
+-Pierri, D. di Bernardo. In-silico modelling of Primary Hyperoxaluria Type 1, a human inborn
+error of liver metabolism, unravels a key enzyme for histamine homeostasis. Inflammation
+Research, Volume 64, Supplement 1, 2015.
 
-## 2021
+[7] R. Pagliarini, M. Sangiovanni, A. Peron, D. di Bernardo. Combining Flux Balance Analysis
+and Model Checking for Metabolic Network Validation and Analysis. Natural Computing, Natural
+Computing. Vol. 14, Issue 3, pp. 341 -354, 2015.
 
-* **DeepMetis: Augmenting a Deep Learning Test Set to Increase its Mutation Score**  
-  Vincenzo Riccio, Nargiz Humbatova, Gunel Jahangirova, and Paolo Tonella  
-  *In Proceedings of the 36th IEEE/ACM International Conference on Automated Software Engineering (ASE 2021)*  
-  [\[PDF\]](../assets/pdf/ase2021.pdf) [\[slides\]](../assets/slides/ase2021_slides.pdf)
+[8] V. Manca, A. Castellini, G. Franco, L. Marchetti, R. Pagliarini. Metabolic P Systems: A
+Discrete Model for Biological Dynamics. Chinese Journal of Electronics, Vol.22, No.4, 2013.
 
-* **DeepHyperion: Exploring the Feature Space of DeepLearning-Based Systems through Illumination Search**  
-  Tahereh Zohdinasab, Vincenzo Riccio, Alessio Gambi, and Paolo Tonella  
-  *In Proceedings of the ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2021)*  
-  [\[PDF\]](../assets/pdf/issta2021.pdf)[\[slides\]](../assets/slides/issta2021_slides.pdf)
+[9] R. Pagliarini, D. di Bernardo. A genome-scale modeling approach to study inborn errors of
+liver metabolism: toward an in silico patient . Journal of Computational Biology, 20(5), 2013.
 
-* **SBST Tool Competition 2021**  
-  Sebastiano Panichella, Alessio Gambi, Fiorella Zampetti, and Vincenzo Riccio  
-  *In Proceedings of the IEEE/ACM 43rd International Conference on Software Engineering Workshops (SBST@ICSE 2021)*  
-  [\[PDF\]](../assets/pdf/sbst2021.pdf) [\[slides\]](../assets/slides/sbst2021_slides.pdf)
+[10] R. Pagliarini, O. Agrigoroaiei, G. Ciobanu, V. Manca. An Analysis of Correlative and Static
+Causality in P Systems. Lecture Notes in Computer Science, Volume 7762, pp 323-341, 2013.
 
-## 2020
+[11] V. Manca, L. Marchetti, R. Pagliarini. MP Modelling of Glucose-Insulin Interactions in the
+Intravenous Glucose Tolerance Test. International Journal of Natural Computing Research, vol.
+3, Issue2 , 2011 , pp. 13 -24.
 
-* **Model-based exploration of the frontier of behaviours for deep learning system testing**  
-  Vincenzo Riccio and Paolo Tonella  
-  *In Proceedings of the 28th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2020)*  
-  [\[PDF\]](../assets/pdf/FSE2020.pdf) [\[slides\]](../assets/slides/fse2020_slides.pdf)
+[12] G. Franco, V. Manca, R. Pagliarini. Regulation and Covering Problems in MP Systems.
+Lecture Notes in Computer Science, Volume 5957, pp. 242-251, 2010.
 
-* **Testing Machine Learning based Systems: A Systematic Mapping**  
-  Vincenzo Riccio, Gunel Jahangirova, Andrea Stocco, Nargiz Humbatova, Michael Weiss, and Paolo Tonella  
-  *Empirical Software Engineering (EMSE)*  
-  [\[PDF\]](../assets/pdf/EMSE2020.pdf)
+[13] A. Castellini, G. Franco and R. Pagliarini. Data analysis pipeline from laboratory to MP
+models. Natural Computing. Vol. 10, Issue 1, pp. 55-76, 2011.
 
-* **Taxonomy of Real Faults in Deep Learning Systems**  
-  Nargiz Humbatova, Gunel Jahangirova, Gabriele Bavota, Vincenzo Riccio, Andrea Stocco, and Paolo Tonella  
-  *In Proceedings of 42nd International Conference on Software Engineering (ICSE 2020)*  
-  [\[PDF\]](../assets/pdf/ICSE2019.pdf)
+[14] R. Pagliarini, G. Franco, V. Manca. An algorithm for initial fluxes of MP systems.
+International Journal of Computers, Communications & Control. Vol. IV, No. 3, pp. 263-272,
+2009.
 
-* **Do Memories Haunt You? An Automated Black Box Testing Approach for Detecting Memory Leaks in Android Apps**   
-  Domenico Amalfitano, Vincenzo Riccio, Porfirio Tramontana, and Anna Rita Fasolino      
-  *IEEE Access*  
-  [\[PDF\]](../assets/pdf/ieeeaccess2020.pdf)
+[15] V. Manca, R. Pagliarini, S. Zorzan. A photosynthetic process modelled by a metabolic P
+system. Natural Computing, Vol. 8, pp. 847-864, 2009.
 
-## 2019
-
-* **Combining automated gui exploration of android apps with capture and replay through machine learning**  
-  Domenico Amalfitano, Vincenzo Riccio, Nicola Amatucci, Vincenzo De Simone, and Anna Rita Fasolino  
-  *Information and Software Technology (IST)*  
-  [\[PDF\]](../assets/pdf/IST2018.pdf)
-
-## 2018
-* **Is this the lifecycle we really want? an automated black-box testing approach for Android activities**  
-  Vincenzo Riccio, Domenico Amalfitano, and Anna Rita Fasolino  
-  *In Companion Proceedings for the ISSTA/ECOOP 2018 Workshops (INTUITESTBEDS@ISSTA/ECOOP 2018)*  
-  [\[PDF\]](../assets/pdf/intuitestbeds2018.pdf) [\[slides\]](../assets/slides/intuitestbeds2018_slides.pdf)
-
-* **Why does the orientation change mess up my Android application? From GUI failures to code faults**  
-  Domenico Amalfitano, Vincenzo Riccio, Ana CR Paiva, and Anna Rita Fasolino  
-  *Software Testing, Verification and Reliability (STVR 2018)*  
-  [\[PDF\]](../assets/pdf/stvr2018.pdf)
-
-## 2017
-* **Towards a thing-in-the-loop approach for the verification and validation of IoT systems**  
-  Domenico Amalfitano, Nicola Amatucci, Vincenzo De Simone, Vincenzo Riccio, and Anna Rita Fasolino  
-  *In Proceedings of the 1st ACM Workshop on the Internet of Safe Things (SafeThings@SenSys 2017)*  
-  [\[PDF\]](../assets/pdf/safethings2017.pdf)
-
-## 2015
-* **Comparing model coverage and code coverage in model driven testing: an exploratory study**  
-  Domenico Amalfitano, Vincenzo De Simone, Anna Rita Fasolino, and Vincenzo Riccio  
-  *In Proceedings of the 30th IEEE/ACM International Conference on Automated Software Engineering Workshop (TESTBEDS@ASE 2015)*  
-  [\[PDF\]](../assets/pdf/testbeds2015.pdf)
+[16] V. Manca, R. Pagliarini, S. Zorzan. Toward an MP model of Non Photochemical Quenching.
+Lecture Notes in Computer Science, volume 5391, pp. 299-310, 2009.
